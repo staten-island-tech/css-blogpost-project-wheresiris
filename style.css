@@ -1,22 +1,24 @@
 .head {
-  background-color: aquamarine;
+  background-color: rgb(140, 250, 240);
   text-align: center;
-  font
 }
-.block{
+.block {
   width: 50%;
   text-align: center;
-  margin-left: 25%;
+  margin: 30px auto;
 }
-.post1{
-  background-color: cadetblue;
+.post1 {
+  background-color: rgb(115, 155, 200);
 }
-.post2{
-  background-color: darkcyan;
+.post2 {
+  background-color: rgb(100, 200, 200);
 }
-.post3{
-  background-color: lightseagreen;
+.post3 {
+  background-color: rgb(85, 200, 250);
 }
-.background{
+.box {
   padding: 10px;
+}
+body {
+  font-family: "Amatic SC", cursive;
 }
