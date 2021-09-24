@@ -1,20 +1,19 @@
-.head {
-  background-color: rgb(140, 250, 240);
-  text-align: center;
-}
 .block {
-  width: 50%;
+  width: 20%;
   text-align: center;
-  margin: 30px auto;
+  margin: 10px auto;
+}
+.header {
+  background-color: #cbf3f0;
 }
 .post1 {
-  background-color: rgb(115, 155, 200);
+  background-color: #bee3db;
 }
 .post2 {
-  background-color: rgb(100, 200, 200);
+  background-color: #89b0ae;
 }
 .post3 {
-  background-color: rgb(85, 200, 250);
+  background-color: #555b6e;
 }
 .box {
   padding: 10px;
