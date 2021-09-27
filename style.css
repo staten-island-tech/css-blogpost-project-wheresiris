@@ -2,6 +2,7 @@
   width: 20%;
   text-align: center;
   margin: 10px auto;
+  border: 2px solid black;
 }
 .header {
   background-color: #cbf3f0;
@@ -17,6 +18,19 @@
 }
 .box {
   padding: 10px;
+}
+span.choice {
+  color: #f00;
+}
+#exciting {
+  background: linear-gradient(to bottom, #8cfbf6, #9ca5f8);
+  border: 1px solid #696969;
+  padding: 10px;
+  border-radius: 10px;
+  box-shadow: 2px 2px 1px black;
+  text-align: center;
+  width: 20%;
+  margin: 10px auto;
 }
 body {
   font-family: "Amatic SC", cursive;
